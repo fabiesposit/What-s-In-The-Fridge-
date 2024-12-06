@@ -1,1 +1,2 @@
-# What-s-In-The-Fridge-
+# What-s-In-The-Fridge
+My team and I developed a prototype for an iOS application called “What’s In The Fridge?” (WITF). The app allows users to add ingredients they have (e.g., 2 eggs, 1 liter of milk, 100g of butter, etc.) to a “virtual fridge”. Based on these ingredients, the app suggests recipes that can be prepared with what’s available. The data concerning recipes (ingredients and steps for preparation) are stored manually using JSON format: since the app is a prototype there was no need to use a professional DataBase. 
